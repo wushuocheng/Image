@@ -1,2 +1,2 @@
-# Picture
+# Image
 图床
